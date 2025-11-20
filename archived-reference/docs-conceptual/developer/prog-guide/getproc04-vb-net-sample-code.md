@@ -20,4 +20,4 @@ The following code shows the implementation of a `Get-Process` cmdlet that repor
 
 - [Windows PowerShell Programmer's Guide](./windows-powershell-programmer-s-guide.md)
 
-- [Windows PowerShell SDK](../windows-powershell-reference.md)
+- [Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

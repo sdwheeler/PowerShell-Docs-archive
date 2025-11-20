@@ -480,7 +480,7 @@ implement container functionality described in
 
 ## See also
 
-- [Windows PowerShell SDK](../windows-powershell-reference.md)
+- [Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)
 - [Windows PowerShell Programmer's Guide](./windows-powershell-programmer-s-guide.md)
 - [Creating Windows PowerShell Providers](./how-to-create-a-windows-powershell-provider.md)
 - [Designing Your Windows PowerShell provider](./designing-your-windows-powershell-provider.md)

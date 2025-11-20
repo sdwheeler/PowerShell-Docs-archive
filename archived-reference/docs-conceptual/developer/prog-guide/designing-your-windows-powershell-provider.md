@@ -239,4 +239,4 @@ the cmdlets exposed by this interface.
 
 [How Windows PowerShell Works](/previous-versions/ms714658(v=vs.85))
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

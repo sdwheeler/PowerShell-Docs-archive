@@ -20,4 +20,4 @@ Here is the complete C# code for the StopProc01 sample cmdlet.
 
 [Windows PowerShell Programmer's Guide](./windows-powershell-programmer-s-guide.md)
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

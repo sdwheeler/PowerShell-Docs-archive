@@ -17,4 +17,4 @@ added to the pipeline are the `Get-Process` and `Sort-Object` cmdlets.
 
 ## See Also
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

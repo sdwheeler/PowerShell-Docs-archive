@@ -15,4 +15,4 @@ application creates the integers 1 through 10 in 0.5-second intervals (500 ms).
 
 ## See Also
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

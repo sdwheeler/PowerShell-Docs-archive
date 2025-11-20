@@ -16,4 +16,4 @@ For complete sample code, see the following topics.
 
 ## See Also
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

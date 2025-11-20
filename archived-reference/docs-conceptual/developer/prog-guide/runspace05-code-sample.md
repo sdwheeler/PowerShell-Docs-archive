@@ -26,4 +26,4 @@ pipeline with a single command, and then execute the pipeline. The command that 
 
 [Windows PowerShell Programmer's Guide](./windows-powershell-programmer-s-guide.md)
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

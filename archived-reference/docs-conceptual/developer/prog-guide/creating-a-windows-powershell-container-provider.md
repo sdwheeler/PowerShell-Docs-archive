@@ -712,6 +712,6 @@ uses a fictitious Access database.
 
 [How to Register Cmdlets, Providers, and Host Applications](/previous-versions/ms714644(v=vs.85))
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)
 
 [Windows PowerShell Programmer's Guide](./windows-powershell-programmer-s-guide.md)

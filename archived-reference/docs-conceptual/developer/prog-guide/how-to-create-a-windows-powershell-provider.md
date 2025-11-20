@@ -67,6 +67,6 @@ adds functionality for manipulating the data (the items in the stored data), and
 
 [How Windows PowerShell Works](/previous-versions/ms714658(v=vs.85))
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)
 
 [Windows PowerShell Programmer's Guide](./windows-powershell-programmer-s-guide.md)

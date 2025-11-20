@@ -26,4 +26,4 @@ This provider that can manipulate the data in a data store.
 
 [Windows PowerShell Programmer's Guide](./windows-powershell-programmer-s-guide.md)
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

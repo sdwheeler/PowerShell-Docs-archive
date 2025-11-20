@@ -7,9 +7,9 @@ title: StopProcessSample04 (C#) Sample Code
 
 Here is the complete C# sample code for the StopProc04 sample cmdlet. This is the code for the
 `Stop-Process` cmdlet described in
-[Adding Parameter Sets to a Cmdlet](../cmdlet/adding-parameter-sets-to-a-cmdlet.md). The
+[Adding Parameter Sets to a Cmdlet](/powershell/scripting/developer/cmdlet/adding-parameter-sets-to-a-cmdlet.md). The
 `Stop-Process` cmdlet is designed to stop processes that are retrieved using the Get-Proc cmdlet
-(described in [Creating Your First Cmdlet](../cmdlet/creating-a-cmdlet-without-parameters.md)).
+(described in [Creating Your First Cmdlet](/powershell/scripting/developer/cmdlet/creating-a-cmdlet-without-parameters.md)).
 
 > [!NOTE]
 > You can download the C# (stopprocesssample04.cs) source file for this Stop-Proc cmdlet using the
@@ -24,4 +24,4 @@ Here is the complete C# sample code for the StopProc04 sample cmdlet. This is th
 
 [Windows PowerShell Programmer's Guide](./windows-powershell-programmer-s-guide.md)
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

@@ -75,8 +75,6 @@ items:
             href: prog-guide/creating-a-windows-powershell-content-provider.md
           - name: Creating a PowerShell Property Provider
             href: prog-guide/creating-a-windows-powershell-property-provider.md
-      - name: How to Create a Console Shell
-        href: prog-guide/how-to-create-a-console-shell.md
       - name: PowerShell Concepts
         href: prog-guide/windows-powershell-concepts.md
       - name: PowerShell Sample Code

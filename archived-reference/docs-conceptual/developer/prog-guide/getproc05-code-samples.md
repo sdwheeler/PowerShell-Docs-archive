@@ -15,6 +15,6 @@ the cmdlet described in [Adding Non-terminating Error Reporting to Your Cmdlet][
 
 ## See Also
 
-- [Windows PowerShell SDK](../windows-powershell-reference.md)
+- [Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)
 
-[1]: ../cmdlet/adding-non-terminating-error-reporting-to-your-cmdlet.md
+[1]: /powershell/scripting/developer/cmdlet/adding-non-terminating-error-reporting-to-your-cmdlet.md

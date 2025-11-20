@@ -76,4 +76,4 @@ End Namespace
 
 ## See Also
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

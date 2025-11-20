@@ -28,4 +28,4 @@ a script and how to retrieve error objects as well as the output objects.
 
 [Windows PowerShell Programmer's Guide](./windows-powershell-programmer-s-guide.md)
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

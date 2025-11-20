@@ -17,4 +17,4 @@ method as the output mechanism for sending output objects to the pipeline.
 
 ## See Also
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

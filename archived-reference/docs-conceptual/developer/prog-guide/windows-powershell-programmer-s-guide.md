@@ -49,7 +49,7 @@ PowerShell runtime invokes these cmdlets within the context of automation script
 at the command line, and the Windows PowerShell runtime also invokes them programmatically through
 Windows PowerShell APIs.
 
-For more information about cmdlets, see [Writing a Windows PowerShell Cmdlet](../cmdlet/writing-a-windows-powershell-cmdlet.md).
+For more information about cmdlets, see [Writing a Windows PowerShell Cmdlet](/powershell/scripting/developer/cmdlet/writing-a-windows-powershell-cmdlet.md).
 
 ### Windows PowerShell Providers
 
@@ -133,7 +133,7 @@ types.
 ## Programmer's Reference
 
 For reference when developing for Windows PowerShell, see the
-[Windows PowerShell SDK](../windows-powershell-reference.md).
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference).
 
 ## Getting Started Using Windows PowerShell
 
@@ -146,12 +146,11 @@ for cmdlet use.
 
 |Topic|Definition|
 |-----------|----------------|
-|[How to Create a Windows PowerShell Provider](./how-to-create-a-windows-powershell-provider.md)|This section describes how to build a Windows PowerShell provider for Windows PowerShell.|
 |[How to Create a Windows PowerShell Host Application](/powershell/scripting/developer/hosting/writing-a-windows-powershell-host-application)|This section describes how to write a host application that manipulates a runspace and how to write a host application that implements its own custom host.|
-|[How to Create a Windows PowerShell Snap-in](../cmdlet/how-to-create-a-windows-powershell-snap-in.md)|This section describes how to create a snap-in that is used to register all cmdlets and providers in an assembly and how to create a custom snap-in.|
+|[How to Create a Windows PowerShell Snap-in](/powershell/scripting/developer/module/how-to-create-a-windows-powershell-snap-in)|This section describes how to create a snap-in that is used to register all cmdlets and providers in an assembly and how to create a custom snap-in.|
 |[How to Create a Console Shell](./how-to-create-a-console-shell.md)|This section describes how to create a console shell that is not extensible.|
 |[Windows PowerShell Concepts](./windows-powershell-concepts.md)|This section contains conceptual information that will help you understand Windows PowerShell from the viewpoint of a developer.|
 
 ## See Also
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

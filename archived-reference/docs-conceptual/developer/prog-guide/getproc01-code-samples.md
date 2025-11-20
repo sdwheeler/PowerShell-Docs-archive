@@ -5,7 +5,7 @@ title: GetProc01 Code Samples
 ---
 # GetProc01 Code Samples
 
-Here are the code samples for the GetProc01 sample cmdlet. This is the basic `Get-Process` cmdlet sample described in [Creating Your First Cmdlet](../cmdlet/creating-a-cmdlet-without-parameters.md). A `Get-Process` cmdlet is designed to retrieve information about all the processes running on the local computer.
+Here are the code samples for the GetProc01 sample cmdlet. This is the basic `Get-Process` cmdlet sample described in [Creating Your First Cmdlet](/powershell/scripting/developer/cmdlet/creating-a-cmdlet-without-parameters.md). A `Get-Process` cmdlet is designed to retrieve information about all the processes running on the local computer.
 
 For complete sample code, see the following topics.
 
@@ -18,4 +18,4 @@ For complete sample code, see the following topics.
 
 [Windows PowerShell Programmer's Guide](./windows-powershell-programmer-s-guide.md)
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

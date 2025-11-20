@@ -11,4 +11,4 @@ Here is the complete C# code for the GetProc05 sample cmdlet.
 
 ## See Also
 
-[Windows PowerShell SDK](../windows-powershell-reference.md)
+[Windows PowerShell SDK](/powershell/scripting/developer/windows-powershell-reference)

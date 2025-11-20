@@ -148,7 +148,6 @@ for cmdlet use.
 |-----------|----------------|
 |[How to Create a Windows PowerShell Host Application](/powershell/scripting/developer/hosting/writing-a-windows-powershell-host-application)|This section describes how to write a host application that manipulates a runspace and how to write a host application that implements its own custom host.|
 |[How to Create a Windows PowerShell Snap-in](/powershell/scripting/developer/module/how-to-create-a-windows-powershell-snap-in)|This section describes how to create a snap-in that is used to register all cmdlets and providers in an assembly and how to create a custom snap-in.|
-|[How to Create a Console Shell](./how-to-create-a-console-shell.md)|This section describes how to create a console shell that is not extensible.|
 |[Windows PowerShell Concepts](./windows-powershell-concepts.md)|This section contains conceptual information that will help you understand Windows PowerShell from the viewpoint of a developer.|
 
 ## See Also

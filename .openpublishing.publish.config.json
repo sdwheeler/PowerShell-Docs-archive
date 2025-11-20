@@ -15,6 +15,12 @@
     {
       "branch": "main",
       "branch_mapping": {},
+      "path_to_root": "powershell-sdk-samples",
+      "url": "https://github.com/MicrosoftDocs/powershell-sdk-samples"
+    },
+    {
+      "branch": "main",
+      "branch_mapping": {},
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft"
     }

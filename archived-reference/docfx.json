@@ -40,7 +40,8 @@
         "5*/**/*": "reference",
         "6*/**/*": "reference",
         "7*/**/*": "reference",
-        "docs-conceptual/**/*": "conceptual"
+        "docs-conceptual/developer/**/*sample*.md": "sample",
+        "docs-conceptual/**/*": "concept-article"
       }
     },
     "globalMetadata": {
